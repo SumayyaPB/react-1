@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-family: serif;
+    font-weight: 900;
+    font-size: 52px;
+    color: white;
+  }
+  .input{
+      margin-inline: auto;
+      display: flex;
+      flex-direction: column;
+      width: 40%;
+      margin-block-start: 30px;
+  }
+  label {
+    text-align: left;
+    font-family: serif;
+    font-size: 21px;
+    color: white;
+  }
+  input {
+    border-radius: 5px;
+    height: 35px;
+  }
+  button {
+      border-radius: 5px;
+      height: 42px;
+      width: 28%;
+      margin-inline: auto;
+      display: flex;
+      margin-block-start: 65px;
+      justify-content: center;
+      font-family: serif;
+      font-size: 23px;
+      font-weight: 900;
+      /* color: white;
+      background-color: black; */
+  }
+ 
+  
